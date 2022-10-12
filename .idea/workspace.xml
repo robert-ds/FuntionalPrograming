@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa401b08-458a-4f62-a910-a56d1cfd7f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/Pkgpredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/CLIArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/CLIArgumentsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/ConsumerAndSupplier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,9 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/function/Function.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -68,10 +73,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pkgpredicate">
+  <component name="RunManager" selected="Application.Functions.Pkgpredicate">
     <configuration name="Functions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.Main" />
       <module name="FuntionalPrograming" />
@@ -100,7 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pkgpredicate" />
+        <item itemvalue="Application.Functions.Pkgpredicate" />
         <item itemvalue="Application.Functions.Main" />
       </list>
     </recent_temporary>
@@ -113,11 +119,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665598311054</updated>
-      <workItem from="1665598367374" duration="2371000" />
+      <workItem from="1665598367374" duration="3587000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
