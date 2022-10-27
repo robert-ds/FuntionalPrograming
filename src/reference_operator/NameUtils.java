@@ -11,7 +11,7 @@ import java.util.function.Consumer;
  * Time: 4:46 p. m.
  */
 
-public class NombreUtils {
+public class NameUtils {
 
   public static void main(String[] args) {
     List<String> teachers = getList("Thomas", "Jhon", "David");
@@ -24,7 +24,7 @@ public class NombreUtils {
 
   }
 
-  static <T> List<T> getList(T ... elements){
+  public static <T> List<T> getList(T ... elements){
     return Arrays.asList(elements);
   }
 
