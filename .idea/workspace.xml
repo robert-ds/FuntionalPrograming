@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa401b08-458a-4f62-a910-a56d1cfd7f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chaining/Chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition/MathOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defaul_method/Defaults.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +75,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Chaining">
-    <configuration name="AgeUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sam.AgeUtils" />
+  <component name="RunManager" selected="Application.MathOperation">
+    <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chaining.Chaining" />
       <module name="FuntionalPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sam.*" />
+          <option name="PATTERN" value="chaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chaining.Chaining" />
+    <configuration name="MathOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composition.MathOperation" />
       <module name="FuntionalPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chaining.*" />
+          <option name="PATTERN" value="composition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathOperation" />
         <item itemvalue="Application.Chaining" />
         <item itemvalue="Application.defaul_method.StringFunctions" />
         <item itemvalue="Application.StringFunctions$StringOperation" />
         <item itemvalue="Application.NameUtils" />
-        <item itemvalue="Application.AgeUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,7 @@
       <workItem from="1666811460051" duration="1462000" />
       <workItem from="1666899735063" duration="1750000" />
       <workItem from="1667586113973" duration="222000" />
-      <workItem from="1667848234180" duration="3401000" />
+      <workItem from="1667848234180" duration="4839000" />
     </task>
     <servers />
   </component>
