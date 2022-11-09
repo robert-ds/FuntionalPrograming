@@ -37,6 +37,12 @@ public class Streams {
 
     emphasisCourse.forEach(System.out::println);
 
+    Stream<String> coursesStream2 = courseList.stream();
+
+    coursesStream2.map(course -> course + "!!")
+        .filter(course -> course.contains("Java"))
+        .forEach(System.out::println);
+
   }
 
 }

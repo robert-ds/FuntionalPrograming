@@ -27,8 +27,8 @@ public class Optionals {
 
     // optionalsNames.isPresent(namesValue -> namesValue.forEach(System.out::println));
 
-    Optional<String> valuablePlayer = optionalValuablePlayer();
-    String valuablePlayerName  =valuablePlayer.orElseGet(() -> "No Player");
+    // Optional<String> valuablePlayer = optionalValuablePlayer();
+    //  String valuablePlayerName  = valuablePlayer.orElseGet(() -> "No Player");
 
   }
 
@@ -42,8 +42,10 @@ public class Optionals {
     return Optional.of(namesList);
   }
 
+  /*
   static Optional<String> optionalValuablePlayer(){
     return Optional.ofNullable();
   }
+   */
 
 }
