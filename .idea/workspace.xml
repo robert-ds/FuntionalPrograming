@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa401b08-458a-4f62-a910-a56d1cfd7f40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/stream/TypeStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/Streams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Streams">
+  <component name="RunManager" selected="Application.TypeStream">
     <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chaining.Chaining" />
       <module name="FuntionalPrograming" />
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunctions$StringOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="defaul_method.StringFunctions$StringOperation" />
+    <configuration name="TypeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.TypeStream" />
       <module name="FuntionalPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="defaul_method.*" />
+          <option name="PATTERN" value="stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeStream" />
         <item itemvalue="Application.Streams" />
         <item itemvalue="Application.MathOperation" />
         <item itemvalue="Application.Chaining" />
         <item itemvalue="Application.defaul_method.StringFunctions" />
-        <item itemvalue="Application.StringFunctions$StringOperation" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1666899735063" duration="1750000" />
       <workItem from="1667586113973" duration="222000" />
       <workItem from="1667848234180" duration="4987000" />
-      <workItem from="1668014608402" duration="4519000" />
+      <workItem from="1668014608402" duration="5430000" />
+      <workItem from="1668103334878" duration="1690000" />
     </task>
     <servers />
   </component>
